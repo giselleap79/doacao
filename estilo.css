@@ -1,0 +1,28 @@
+body{background-color: rgb(138, 224, 237);}
+#menu {background-color: rgb(128, 156, 209);;}
+#menu ul li{ display: inline;
+padding-left: 50px;
+font-size: 25px;
+font-weight: 500;
+color:black;
+}
+a {text-decoration: none; color: black;}
+#menu ul li a{text-decoration: none;
+color:black}
+img{height: 550px; width: 550px;}
+p {font-size: 22px; font-weight: 300; font-style: italic;}
+form{ font-size: 22px; font-weight: 400;}
+#menu ul li a:hover { color: white;}
+button {padding: 10px;}
+.btver {padding: 10px;}
+#btsim:hover{ background-color: rgb(93, 246, 93);
+padding: 10px;}
+#btnao:hover{ background-color: rgb(242, 69, 43);
+padding: 10px;}
+.btver:hover{ background-color: rgb(177, 229, 20);
+    padding: 10px;}
+marquee{ font-size: 20px; color:white;
+    text-shadow:     
+    1px 1px 2px black,
+    0 0 1em blue,
+    0 0 0.2em blue;;}
